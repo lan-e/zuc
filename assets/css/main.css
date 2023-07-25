@@ -361,7 +361,7 @@ i {
   height: 200px;
 }
 .hero-second img {
-  width: 100vw !important;
+  width: 100%;
   height: 100%;
   object-fit: cover;
 }
